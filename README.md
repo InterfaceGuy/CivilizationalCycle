@@ -1,5 +1,7 @@
 # Civilizational Cycle
 
+![](CivilizationCycle.gif)
+
 The Civilizational cycle, spanning approximately 1000 years, is a concept primarily associated with Oswald Spengler's theory of historical development. This cycle encompasses the entire lifespan of a civilization, including:
 
 1. Birth/Spring: Emergence of a new cultural worldview
